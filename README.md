@@ -3,10 +3,10 @@ PS ID: 1574
 Team ID: 4537
 Team Lead: Shivam Jha
 Team Members:
-Savita Srivastava
-Shaista Afreen
-Dhwanit Shah
-Min Nepali
+Savita Srivastava,
+Shaista Afreen,
+Dhwanit Shah,
+Min Nepali,
 Varun Kushwaha
 
 ------------------------
